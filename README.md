@@ -1,4 +1,4 @@
-🍽️ <h1>Online Food Meal Website</h1>
+<h1>🍽️ Online Food Meal Website</h1>
 
 A <b>responsive online meal website</b> built purely using <b>HTML</b> and <b>CSS</b>, created to showcase my <b>frontend UI development skills</b>. The project demonstrates clean structuring, responsive layouts, and engaging visuals to represent a modern food ordering platform.
 
@@ -28,7 +28,7 @@ To showcase my frontend skills by designing an aesthetically pleasing and respon
 - 🎨 **CSS3**
 
 
-< h2>📸 Live Hosting:</h2>
+<h2>📸 Live Hosting:</h2>
    The website is hosted at the folllowing link: 
 
 
