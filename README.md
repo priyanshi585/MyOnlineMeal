@@ -13,19 +13,19 @@ To showcase my frontend skills by designing an aesthetically pleasing and respon
 
  <h2>🧩 Features</h2>
 
-🏠 **Home Page** – Eye-catching hero section with call-to-action  
-ℹ️ **About Section** – Brief intro about the service and values  
-🛠️ **Services** – Displays key features or services offered  
-📞 **Contact Section** – Simple form UI for users to reach out  
-🔗 **Navigation Bar** – Smooth internal navigation  
-📄 **Header & Footer** – Complete website structure  
-📱 **Fully Responsive** – Adapts to all screen sizes
+🏠 <b>Home Page</b> – Eye-catching hero section with call-to-action  
+ℹ️ <b>About Section</b> – Brief intro about the service and values  
+🛠️ <b>Services</b> – Displays key features or services offered  
+📞 <b>Contact Section</b> – Simple form UI for users to reach out  
+🔗 <b>Navigation Bar</b> – Smooth internal navigation  
+📄 <b>Header & Footer</b> – Complete website structure  
+📱 <b>Fully Responsive</b> – Adapts to all screen sizes
 
 
  <h2>🛠️ Tech Stack</h2>
 
-- 🌐 **HTML5**  
-- 🎨 **CSS3**
+- 🌐 <b>HTML5</b>  
+- 🎨 <b>CSS3</b>
 
 
 <h2>📸 Live Hosting:</h2>
