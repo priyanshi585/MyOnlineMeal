@@ -5,7 +5,7 @@ A <b>responsive online meal website</b> built purely using <b>HTML</b> and <b>CS
 
  <h2>🔍 Project Overview</h2>
 
-This project is a <b>UI-focused food meal website</b> designed with core web technologies. It's a great example of a landing page with multiple sections that reflect real-world design patterns.
+This project is a <b>UI-focused food meal website</b> designed with core web technologies. It's a great example of a landing page with multiple sections that reflect real-world design patterns. It is a beginner level website created for learning purpose.
 
  <h2>🎯 Purpose</h2>
 
