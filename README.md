@@ -2,7 +2,6 @@
 
 A <b>responsive online meal website</b> built purely using <b>HTML</b> and <b>CSS</b>, created to showcase my <b>frontend UI development skills</b>. The project demonstrates clean structuring, responsive layouts, and engaging visuals to represent a modern food ordering platform.
 
-
  <h2>🔍 Project Overview</h2>
 
 This project is a <b>UI-focused food meal website</b> designed with core web technologies. It's a great example of a landing page with multiple sections that reflect real-world design patterns. It is a beginner level website created for learning purpose.
