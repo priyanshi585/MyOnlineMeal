@@ -28,4 +28,4 @@ To showcase my frontend skills by designing an aesthetically pleasing and respon
 
 
 <h2>📸 Live Hosting:</h2>
-   The website is hosted at the folllowing link: https://priyanshi585.github.io/MyOnlineMeal/
+   The website is hosted at the folllowing link: https://priyanshi585.github.io/MyOnlineMeal/  
